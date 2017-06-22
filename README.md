@@ -72,3 +72,6 @@ NSLog(@"下载完了");
 [operaArray addObject:operation];
 
 [queue addOperations:operaArray waitUntilFinished:NO];
+
+
+//博客链接：http://blog.csdn.net/drunkard_001/article/details/73608904
